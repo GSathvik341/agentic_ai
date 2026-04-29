@@ -16,6 +16,6 @@ git clone <repo_url>
 cd agentic-ai-assignment
 
 python -m venv venv
-venv\Scripts\activate      # Windows
+venv\Scripts\activate      
 
 pip install -r requirements.txt
